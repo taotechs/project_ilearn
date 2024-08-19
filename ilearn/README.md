@@ -1,4 +1,3 @@
-
 # Tech Learning Roadmap
 
 Welcome to the **Tech Learning Roadmap** app! This Flutter application is designed to help tech enthusiasts and students streamline their learning journey by providing personalized learning roadmaps and curated resources based on their interests.
@@ -69,5 +68,8 @@ For any questions or feedback, please contact:
 - **Adeyomoye Ayomide**
 - **Badmus Omodebola**
 - **Hamzat Ramadan**
-
+- **Tall Abdulrahman**
+- **Popoola Qudus**
+- **Olopade Fawaz**
+- **Olayode Ademola**
 ---
